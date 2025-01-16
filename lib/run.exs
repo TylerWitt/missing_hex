@@ -23,7 +23,7 @@ defmodule HexTest do
         "MIX_LOCK" => nil,
         "MIX_DEPS" => nil
       }
-    )
+    ) |> IO.inspect()
   end
 end
 
