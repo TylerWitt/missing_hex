@@ -1,6 +1,6 @@
 # HexTest
 
-**TODO: Add description**
+Run `mix run lib/run.exs` from the root
 
 ## Installation
 
